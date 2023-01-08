@@ -60,6 +60,7 @@
 
   {#if winner}
   <button on:click={restartGame}>Restart Game</button>
+  <button on:click={restartGame}>NEW GAME</button>
   {/if}
 </main>
 

@@ -1,6 +1,6 @@
 # Svelte + Vite
 
-This template should help get you started developing with Svelte in Vite.
+Made with svelte+vite, a basic tic-tac-toe game.
 
 ## Recommended IDE Setup
 
